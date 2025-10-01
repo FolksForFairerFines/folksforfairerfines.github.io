@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Folks for fairer fines</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Folks for fairer fines</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
+        <lastBuildDate>Wed, 01 Oct 2025 21:58:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About this site</title>
+        <link>http://localhost:1313/posts/about_this_site/</link>
+        <pubDate>Wed, 01 Oct 2025 21:58:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/posts/about_this_site/</guid>
+        <description>&lt;p&gt;What this site will be about&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

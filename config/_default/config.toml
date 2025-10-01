@@ -1,0 +1,7 @@
+# Change baseurl before deploy
+baseurl = "https://folksforfairerfines.github.io"
+languageCode = "en-gb"
+title = "Folks for fairer fines"
+
+[pagination]
+pagerSize = 5

@@ -16,9 +16,17 @@ url = "https://github.com/folksforfairerfines/folksforfairerfines.github.io"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "google-forms"
+name = "Our survey"
+url = "https://forms.gle/9w33eiy8C3aBUWHi8"
 
 [social.params]
-icon = "brand-twitter"
+icon = "clipboard"
+
+[[social]]
+identifier = "change.org"
+name = "Our petition"
+url = "https://www.change.org/p/reform-court-fines-to-support-fairness-for-all"
+
+[social.params]
+icon = "users-group"
